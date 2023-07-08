@@ -12356,3 +12356,14 @@ Make sure 'BP_LevelPanner_C' has been compiled for  Get PannerPlatformRefs
 [2023.07.08-13.57.55:482][155]LogContentValidation: Display: Validating BP_PannerPlatform_C /Game/ThirdPerson/Maps/Prototype.Prototype:PersistentLevel.BP_PannerPlatform_C_UAID_50EBF6D511AEC39301_1355077718
 [2023.07.08-13.57.55:482][155]LogContentValidation: Display: Validating BP_PannerPlatform_C /Game/ThirdPerson/Maps/Prototype.Prototype:PersistentLevel.BP_PannerPlatform_C_UAID_50EBF6D511AEC39301_1342024717
 [2023.07.08-13.57.55:482][155]LogContentValidation: Display: Validating BP_PannerPlatform_C /Game/ThirdPerson/Maps/Prototype.Prototype:PersistentLevel.BP_PannerPlatform_C_UAID_50EBF6D511AEC39301_1314243716
+[2023.07.08-14.03.15:563][666]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_GameOver.WBP_GameOver
+[2023.07.08-14.03.15:564][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-14.03.15:571][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-14.03.15:578][666]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.07.08-14.03.15:848][666]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.08-14.03.15:848][666]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.08-14.03.15:975][666]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.07.08-14.03.19:172][836]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-14.03.19:172][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-14.03.19:180][836]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-14.03.19:180][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
