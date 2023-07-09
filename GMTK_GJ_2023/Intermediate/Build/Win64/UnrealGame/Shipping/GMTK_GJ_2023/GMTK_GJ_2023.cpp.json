@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\gmtk_gamejam\\gmtk_gj_2023\\intermediate\\source\\gmtk_gj_2023.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\gmtk_gamejam\\gmtk_gj_2023\\intermediate\\build\\win64\\gmtk_gj_2023\\shipping\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\gmtk_gamejam\\gmtk_gj_2023\\intermediate\\build\\win64\\unrealgame\\shipping\\gmtk_gj_2023\\definitions.gmtk_gj_2023.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
