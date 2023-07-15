@@ -1,4 +1,4 @@
-# GMTK_GameJam
+# GMTK_GameJam - Bun Hunt
 UE5 Game made for GMTK Game Jam 2023
 
 Bun Hunt was made in 48 hours for the Game Maker's Toolkit Game Jam 2023
